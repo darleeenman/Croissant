@@ -7,7 +7,9 @@ body {
 footer a {
   margin: 0 10px;
   color: teal;
+  text-decoration: none;
 }
 a:hover {
   color: coral;
+  text-decoration: overline;
 }
